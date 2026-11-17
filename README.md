@@ -1,42 +1,164 @@
-# 💫 About Me:
-# 안녕하세요, 혁신적인 솔루션을 만드는 개발자 보그단입니다! 👋<br><br>현재 폴란드에 거주하며 글로벌 IT 리더를 꿈꾸는 17세 우크라이на 출신 개발자입니다. <br>단순한 코딩을 넘어, 비즈니스와 사용자를 연결하는 가치 있는 시스템을 구축하는 데 열정을 쏟고 있습니다.<br><br>### 🚀 저에 대해 더 알고 싶으신가요?<br><br>* **현재 프로젝트:** 인공지능(AI) 기반 비즈니스 자동화 CRM 시스템 개발 중 (FastAPI & Groq AI 활용)
-* **목표:** 2026년 GKS(정부초청외국인장학생) 프로그램을 통해 대한민국에서 컴퓨터공학 전공하기
-* **관심 분야:** SaaS 아китек처, AI 에이전т, 인터랙티브 시스템 디자인
-* **언어 능력:** 우크라이나어(Native), 폴란드어, 영어(B1), 한국어(열공 중!), 일본어(계획 중)
 
-### 🛠 기술 스택 (Tech Stack)
+# Hi there, I'm Bohdan Kukhar! 👋
 
-* **Backend:** Python (FastAPI), SQLAlchemy, PostgreSQL
-* **Frontend:** HTML5, CSS3 (Bootstrap), JavaScript (Vue.js)
-* **Tools:** Git, Docker, Groq AI API
+### Full-Stack Web Developer | AI Integration & Automation
 
-### 📈 저의 비전
-"세상에 없던 새로운 가치를 창출하여 모든 기업과 고객이 상생하는 생태계를 만드는 것"이 저의 궁극적인 목표입니다. 매일 성장을 위해 30개 이상의 프로젝트를 완성하는 '빨리빨리' 정신으로 도전하고 있습니다!
+I'm a Ukrainian developer based in **Bielsko-Biała, Poland**, specializing in web applications, backend services, AI integrations, and business automation.
 
----
-📫 **Contact:** dawfaw29@gmail.com / Telegram: @SaaSDevelop
-🌐 **Portfolio:** https://bk-frontend-developer.netlify.app/
+I build practical software solutions, from responsive websites and web applications to APIs, automation tools, and AI-powered systems.
 
+I actively use AI-assisted development tools, including **OpenAI Codex**, to accelerate development, debug issues, and improve workflows. I focus on understanding, testing, and refining the resulting code.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bohdan_saas_developer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdankukhar/) 
-
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rendooq&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rendooq&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rendooq&theme=tokyonight&show_icons=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rendooq&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🌍 **Location:** Poland  
+💼 **Availability:** Remote | Freelance | Contract | Part-time  
+🚀 **Focus:** Web Development, Full-Stack Applications, AI Automation  
+🌐 **Portfolio:** [View my portfolio](https://bk-frontend-developer.netlify.app/)  
+📩 **Email:** [bkuhar13@gmail.com](mailto:bkuhar13@gmail.com)  
+💬 **Telegram:** [@SaaSDevelop](https://t.me/SaaSDevelop)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rendooq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bohdansaas)
+## 🚀 What I Do
+
+- **Web Development:** Responsive websites, landing pages, dashboards, and web applications.
+- **Full-Stack Development:** Frontend interfaces, backend services, REST APIs, and database integrations.
+- **AI Integration:** LLM APIs, AI-powered features, and intelligent automation workflows.
+- **Business Automation:** Tools for reducing repetitive tasks and connecting business systems.
+- **Existing Projects:** Bug fixing, feature development, refactoring, and performance improvements.
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Backend, Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### Additional Experience
+
+Vue.js • Angular • SolidJS • Java / Spring Boot • REST APIs • LLM Integrations • Groq API • AI-Assisted Development
+
+---
+
+## 📂 Featured Projects
+
+### 🧠 Palli-Palli Task Tracker
+
+**AI-Powered Productivity & Task Management**
+
+A task management application designed to transform unstructured task descriptions into organized daily schedules using AI.
+
+**Technologies:**
+- Next.js 16 and TypeScript
+- Tailwind CSS v4
+- Python and FastAPI
+- Groq API (Llama 3.3 70B)
+
+**Key Features:**
+- AI-assisted task planning
+- Natural-language task processing
+- Multilingual interface
+- Browser-based data persistence
+- Frontend and backend integration
+
+---
+
+### ⚙️ SafeOrbit
+
+**AI Business Automation Backend | In Development**
+
+A modular backend project focused on business automation and scalable API architecture.
+
+**Technologies:**
+- Python
+- FastAPI
+- REST APIs
+- Modular application architecture
+
+**Development Focus:**
+- API routing and service layers
+- Middleware and exception handling
+- Maintainable backend structure
+- Foundations for AI-powered business workflows
+
+---
+
+### 🖐️ Gesture-Controlled PC Interface
+
+**Computer Vision & Human-Computer Interaction**
+
+A desktop application prototype that allows users to interact with a computer through hand gestures.
+
+**Technologies:**
+- Python
+- Computer Vision
+- AI-Assisted Development
+
+**Development Focus:**
+- Gesture recognition
+- Interactive desktop controls
+- Integration, debugging, and testing
+
+---
+
+## 🤖 AI-Assisted Development
+
+I use AI as a development tool to improve productivity while maintaining responsibility for the final implementation.
+
+My workflow includes:
+
+- AI-assisted code generation and prototyping
+- Debugging and refactoring
+- API integration
+- Code review and testing
+- Working with AI coding agents
+- Iterative development based on requirements
+
+**My approach: AI accelerates development, but the final software must be reviewed, tested, and maintainable.**
+
+---
+
+## 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bk-frontend-developer.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bohdankukhar/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bohdan_saas_developer)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SaaSDevelop)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkuhar13@gmail.com)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rendooq&theme=tokyonight&show_icons=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Rendooq&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rendooq&theme=tokyonight&show_icons=true&layout=compact)
+
+---
+
+### 💼 Open to Opportunities
+
+I'm currently interested in remote freelance, contract, and part-time opportunities involving web development, backend systems, AI integrations, and business automation.
+
+**Have a project or an opportunity? Feel free to contact me.**
